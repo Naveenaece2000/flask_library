@@ -60,10 +60,10 @@ python app.py
 ### 4. Open in Browser
 Visit the following URL in your web browser:
 ```bash
-
 http://127.0.0.1:5000
-![image alt](https://github.com/Naveenaece2000/flask_library/blob/e6ccc83648c256f3ab49fde1cf662dc68a0e03d5/Screenshot%20(69).png)
 ```
+
+![image alt](https://github.com/Naveenaece2000/flask_library/blob/4cd88bb0729c9f368055272c71837fe71ac7cdfe/Screenshot%20(69).png)
 
 # 📖 How to Use
 1. Add a Book: Enter the Title and Author in the input fields and click "Add Book".
@@ -75,6 +75,7 @@ http://127.0.0.1:5000
 2. RESTful Routing: Handling HTTP GET and POST requests.
 3. ORM (Object Relational Mapping): Using Python classes to interact with the SQL database.
 4. Server-Side Rendering: Using Jinja2 to inject data into HTML before sending it to the client.
+
 
 
 
