@@ -65,6 +65,11 @@ http://127.0.0.1:5000
 
 ![image alt](https://github.com/Naveenaece2000/flask_library/blob/4cd88bb0729c9f368055272c71837fe71ac7cdfe/Screenshot%20(69).png)
 
+```
+```
+ ### 👍After Adding Book Title & Author Name
+![image alt](https://github.com/Naveenaece2000/flask_library/blob/933da7725d8e2ac70703fe35b19cb0db119eddf7/Screenshot%20(70).png)
+
 # 📖 How to Use
 1. Add a Book: Enter the Title and Author in the input fields and click "Add Book".
 2. View Library: The book will automatically appear in the list below (fetched from the database).
@@ -75,6 +80,7 @@ http://127.0.0.1:5000
 2. RESTful Routing: Handling HTTP GET and POST requests.
 3. ORM (Object Relational Mapping): Using Python classes to interact with the SQL database.
 4. Server-Side Rendering: Using Jinja2 to inject data into HTML before sending it to the client.
+
 
 
 
